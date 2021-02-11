@@ -1,4 +1,3 @@
-/* General Blueprint Style */
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 @font-face {
 	font-family: 'bpicons';
@@ -10,7 +9,7 @@
 	url('../fonts/bpicons/bpicons.woff') format('woff'),
 	url('../fonts/bpicons/bpicons.ttf') format('truetype'),
 	url('../fonts/bpicons/bpicons.svg#bpicons') format('svg');
-} /* Made with http://icomoon.io/ */
+}
 
 /* Resets */
 *,
@@ -62,7 +61,7 @@ a:hover {
 	color: #516977;
 }
 
-/* Blueprint header */
+/* Header */
 .bp-header {
 	width: 90%;
 	max-width: 69em;
